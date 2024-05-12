@@ -11,8 +11,6 @@ DEVICE_METADATA_UUIDS: Final = "uuids"
 DEVICE_DEF_MANUFACTURER: Final = "Tuya"
 SET_DISCONNECTED_DELAY = 10 * 60
 
-CONF_ACCESS_ID: Final = "access_id"
-CONF_ACCESS_SECRET: Final = "access_secret"
 CONF_UUID: Final = "uuid"
 CONF_LOCAL_KEY: Final = "local_key"
 CONF_CATEGORY: Final = "category"
